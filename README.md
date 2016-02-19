@@ -4,3 +4,9 @@
 [![myTerminal.github.io](https://myTerminal.github.io/badges/myTerminal.svg)](http://myterminal.github.io/)
 
 A docker image for generic development
+
+## Pre-installed packages
+
+1. emacs
+2. npm
+3. git
